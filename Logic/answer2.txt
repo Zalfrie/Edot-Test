@@ -1,0 +1,3 @@
+1. Every hour the snail climbs up 3 feet, it slides down 2 feet. So, the actual height it is climbing in 1 hour is 1 foot.
+2. in 25 hours, the snail would have climbed 25 feet, in 26 hours it would have climbed 26 feet and in 27 hours it would have climbed 27 feet, but things change after 27 feet.
+3. the snail covers 3 feet up in 1 hour. So, in the 28th hour, the snail would have climbed 30 feet up the wall and would have reached atop the wall. Therefore the answer to this riddle is 28 hours.

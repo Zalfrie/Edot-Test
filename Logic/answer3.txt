@@ -1,0 +1,1 @@
+the 6 house numbers are 1460, 1462, 1464, 1466, 1468, 1470.  The lowest house number, as per the question, is the answer: 1460.

@@ -1,0 +1,4 @@
+Now, use sum of n natural number = n(n+1)/2
+Here, n = 12
+∴ clock strikes in 12 hours = 12(12 + 1)/2 = 78
+∴ clock strikes in a day = 2 × 78 = 156
